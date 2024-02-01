@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 style="text-align:center;">BybitTradeBot</h1>
 
 > **Бот для автоматизации выставления ордеров long и short на платформе bybit, основной функционал реализовывался для работы с группой @RoseSignalsPremium.   
@@ -65,6 +64,3 @@
 </p>
 
 <div style="text-align:center;"><h1> Удачи с Вашим BybitTradeBot!</h1></div>
-=======
-# BybitTradeBot-
->>>>>>> 585cf4ca8cb8626a2ec52dd594be9b0dda30c388
