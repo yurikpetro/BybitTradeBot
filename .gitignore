@@ -1,0 +1,7 @@
+/.idea/
+/**/*.log
+/venv/
+/**/*.session
+/downloads/*
+/**/*.session-journal
+/**/__pycache__/*.pyc

@@ -1,0 +1,13 @@
+{
+    "user": {
+        "tg_id": 1234567890,
+        "quantity": 1000,
+        "stopLoss": 80,
+        "takeProfit": 10
+    },
+    "admins_id": [
+        1234567890,
+        9876543210
+    ],
+    "leverage_by_symbol": {}
+}
